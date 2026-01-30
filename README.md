@@ -3,7 +3,7 @@
   - Cloud Architecture
   - Serverless Architecture
   - AI/ML
-  - Video Games (Action, Adventure, RPG, RTS, Indie)
+  - Video Games (Factory Automation, Base Building, RPG, RTS, Indie)
   - Board Games (Geekier the better e.g. Munchkin, Zombies, Betrayal at House on the hill)
 
 
